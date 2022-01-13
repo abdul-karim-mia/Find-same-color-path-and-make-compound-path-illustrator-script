@@ -12,4 +12,5 @@
 
 #### Variant 2 — Drag & Drop
 Drag and drop the script file (JS or JSX) into Adobe Illustrator Window
+
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/QgEM2E0ZD-4/mqdefault.jpg)](http://www.youtube.com/watch?v=QgEM2E0ZD "Find same color path and make compound path illustrator script")
