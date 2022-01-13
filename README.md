@@ -13,7 +13,7 @@
 #### Variant 2 — Drag & Drop
 Drag and drop the script file (JS or JSX) into Adobe Illustrator Window
 ## 💸 Donate
-You can support my work on new scripts via [PayPal], [ЮMoney] or [Donatty].  
+You can support my work on new scripts via [PayPal] .  
 
 [PayPal]: https://paypal.me/akmia51
 
