@@ -1,17 +1,14 @@
-Download archive and unzip. All scripts are in the folder jsx
+#### Variant 1 — Install 
 
-Place <script_name>.jsx in the Illustrator Scripts folder:
+1. [Download archive] and unzip. All scripts are in the folder `jsx`
+2. Place `<script_name>.jsx` in the Illustrator Scripts folder:
+	- OS X: `/Applications/Adobe Illustrator [vers.]/Presets.localized/en_GB/Scripts`
+	- Windows (32 bit): `C:\Program Files (x86)\Adobe\Adobe Illustrator [vers.]\Presets\en_GB\Scripts\`
+	- Windows (64 bit): `C:\Program Files\Adobe\Adobe Illustrator [vers.] (64 Bit)\Presets\en_GB\Scripts\`
+	- RU lang: `C:\Program Files\Adobe\Adobe Illustrator [версия]\Стили\ru_RU\Сценарии\`
+3. Restart Illustrator
 
-OS X: /Applications/Adobe Illustrator [vers.]/Presets.localized/en_GB/Scripts
+[Download archive]: https://github.com/abdul-karim-mia/Find-same-color-path-and-make-compound-path-illustrator-script/archive/refs/heads/main.zip
 
-Windows (32 bit): C:\Program Files (x86)\Adobe\Adobe Illustrator [vers.]\Presets\en_GB\Scripts\
-
-Windows (64 bit): C:\Program Files\Adobe\Adobe Illustrator [vers.] (64 Bit)\Presets\en_GB\Scripts\
-
-RU lang: C:\Program Files\Adobe\Adobe Illustrator [версия]\Стили\ru_RU\Сценарии\
-
-Restart Illustrator
-
-Variant 2 — Drag & Drop
-
+#### Variant 2 — Drag & Drop
 Drag and drop the script file (JS or JSX) into Adobe Illustrator Window
