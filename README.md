@@ -12,3 +12,11 @@
 
 #### Variant 2 — Drag & Drop
 Drag and drop the script file (JS or JSX) into Adobe Illustrator Window
+
+<object width="560" height="315">
+  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=QgEM2E0ZD" />
+  <param name="wmode" value="transparent" />
+  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=QgEM2E0ZD"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="560" height="315" />
+</object>
