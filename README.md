@@ -21,4 +21,4 @@ You can support my work on new scripts via [PayPal] .
   <img width="147" height="40" src="https://i.ibb.co/Z8Wd8Sn/paypal-badge.png" >
 </a>
 
-[![IMAGE ALT TEXT](https://img.youtube.com/vi/QgEM2E0ZD-4/mqdefault.jpg)](https://youtu.be/QgEM2E0ZD-4"Find same color path and make compound path illustrator script")
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/QgEM2E0ZD-4/mqdefault.jpg)](https://youtu.be/QgEM2E0ZD-4)"Find same color path and make compound path illustrator script")
