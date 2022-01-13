@@ -12,5 +12,13 @@
 
 #### Variant 2 — Drag & Drop
 Drag and drop the script file (JS or JSX) into Adobe Illustrator Window
+## 💸 Donate
+You can support my work on new scripts via [PayPal], [ЮMoney] or [Donatty].  
+
+[PayPal]: https://paypal.me/akmia51
+
+<a href="https://paypal.me/akmia51">
+  <img width="147" height="40" src="https://i.ibb.co/Z8Wd8Sn/paypal-badge.png" >
+</a>
 
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/QgEM2E0ZD-4/mqdefault.jpg)](http://www.youtube.com/watch?v=QgEM2E0ZD "Find same color path and make compound path illustrator script")
