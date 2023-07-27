@@ -21,7 +21,6 @@
   Check other author's scripts: https://github.com/abdul-karim-mia
 */
 
-@target illustrator
 var lays=activeDocument.layers;
 for(l=0;l<lays.length;l++){app.activeDocument.activeLayer=lays[l];
 while (app.activeDocument.activeLayer.pathItems.length !=0) {try{
